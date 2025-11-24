@@ -20,6 +20,7 @@ This is my journel for work completed in SIT719 - Analytics For Security And Pri
 
 ### Week 3
 - [ ] Task 3.1P - Scikit-Learn for Machine Learning
+- [ ] Task 3.2HD - Project Plan
 - [ ] Content - Machine Learning for Cyber-Security
 - [ ] Seminar 3 Tasks
 - [ ] Pracical 3 Tasks - Supervised ML - Fraud & Credit Card Data detection
