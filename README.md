@@ -24,3 +24,10 @@ This is my journel for work completed in SIT719 - Analytics For Security And Pri
 - [ ] Seminar 3 Tasks
 - [ ] Pracical 3 Tasks - Supervised ML - Fraud & Credit Card Data detection
 
+### Week 4
+- [ ] Task 4.1P - Attack Classification using Naïve Bayes Algorithm
+- [ ] Task 4.2C - Intrusion Detection using Supervised Learning Techniques
+- [ ] Content - Supervised Machine Learning for Cyber-Security: Part 1
+- [ ] Seminar 4 Tasks 
+- [ ] Practical 4 - Task 1 - Experiment with WEKA
+
