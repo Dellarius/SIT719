@@ -5,9 +5,9 @@ This is my journel for work completed in SIT719 - Analytics For Security And Pri
 ## Content
 ### Week 1
 - [x] Task 1.1P - Understanding the Unit
-- [ ] Content - Fundamentals of Data Analytics using Python: Part 1
+- [x] Content - Fundamentals of Data Analytics using Python: Part 1
 - [x] Seminar 1 Tasks
-- [ ] Practical 1 - Python Intro
+- [x] Practical 1 - Python Intro
 
 ### Week 2
 - [ ] Task 2.1P - Basic Scripting with Python
