@@ -3,6 +3,7 @@
 This is my journel for work completed in SIT719 - Analytics For Security And Privacy
 
 ##Content
+
 ###Week 1
 - [x] Task 1.1P - Understanding the Unit
 - [ ] Content - Fundamentals of Data Analytics using Python: Part 1
