@@ -10,7 +10,7 @@ This is my journel for work completed in SIT719 - Analytics For Security And Pri
 - [x] Practical 1 - Python Intro
 
 ### Week 2
-- [ ] Task 2.1P - Basic Scripting with Python
+- #[ ] Task 2.1P - Basic Scripting with Python
 - [ ] Content - Fundamentals of Data Analytics using Python: Part 2
 - [ ] Seminar 2 Tasks
 - [ ] Practical 2, Task 1 - Programming Python using numpy, pandas
